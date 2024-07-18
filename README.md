@@ -10,15 +10,15 @@
 
 ## Requirements
 
-### Python 3.7 or higher
-### Streamlit
-### Requests
-### BeautifulSoup
-### langchain
-### langchain_openai
-### langchain.vectorstores
-### langchain.embeddings
-### langchain.text_splitter
-### langchain.document_loaders
-### Milvus
-### langchain_community
+#### Python 3.7 or higher
+#### Streamlit
+#### Requests
+#### BeautifulSoup
+#### langchain
+#### langchain_openai
+#### langchain.vectorstores
+#### langchain.embeddings
+#### langchain.text_splitter
+#### langchain.document_loaders
+#### Milvus
+#### langchain_community
