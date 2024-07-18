@@ -1,12 +1,12 @@
 # AI_Bot
 
-## This is a Streamlit-based application designed to answer questions about CUDA, GPU acceleration, and parallel computing by leveraging the power of OpenAI's language model and Milvus for vector storage and retrieval.
+### This is a Streamlit-based application designed to answer questions about CUDA, GPU acceleration, and parallel computing by leveraging the power of OpenAI's language model and Milvus for vector storage and retrieval.
 
-## Features
+### Features
 
-# Question Answering: Ask questions about CUDA, GPU acceleration, or parallel computing, and get relevant answers from the CUDA documentation.
-# Vector Storage: Uses Milvus to store and retrieve document vectors for efficient similarity search.
-# Streamlit Interface: Provides an easy-to-use web interface for asking questions and displaying results.
+## Question Answering: Ask questions about CUDA, GPU acceleration, or parallel computing, and get relevant answers from the CUDA documentation.
+## Vector Storage: Uses Milvus to store and retrieve document vectors for efficient similarity search.
+## Streamlit Interface: Provides an easy-to-use web interface for asking questions and displaying results.
 
 ## Requirements
 
