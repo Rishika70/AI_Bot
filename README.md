@@ -2,7 +2,7 @@
 
 ## This is a Streamlit-based application designed to answer questions about CUDA, GPU acceleration, and parallel computing by leveraging the power of OpenAI's language model and Milvus for vector storage and retrieval.
 
-##F eatures
+## Features
 
 # Question Answering: Ask questions about CUDA, GPU acceleration, or parallel computing, and get relevant answers from the CUDA documentation.
 # Vector Storage: Uses Milvus to store and retrieve document vectors for efficient similarity search.
@@ -10,15 +10,15 @@
 
 ## Requirements
 
-# Python 3.7 or higher
-# Streamlit
-# Requests
-# BeautifulSoup
-# langchain
-# langchain_openai
-# langchain.vectorstores
-# langchain.embeddings
-# langchain.text_splitter
-# langchain.document_loaders
-# Milvus
-# langchain_community
+### Python 3.7 or higher
+### Streamlit
+### Requests
+### BeautifulSoup
+### langchain
+### langchain_openai
+### langchain.vectorstores
+### langchain.embeddings
+### langchain.text_splitter
+### langchain.document_loaders
+### Milvus
+### langchain_community
